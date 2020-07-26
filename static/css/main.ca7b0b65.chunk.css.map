@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBAGC,QAAS,CACT,WAAY,CACZ,yCACD,CAEA,EACC,oBACD","file":"main.ca7b0b65.chunk.css","sourcesContent":["html,\nbody,\n#root {\n\tmargin: 0;\n\theight: 100%;\n\tfont-family: 'Roboto', Helvetica, sans-serif;\n}\n\na {\n\ttext-decoration: none;\n}\n"]}

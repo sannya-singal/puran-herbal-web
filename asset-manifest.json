@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/puran-herbal/static/css/main.ca7b0b65.chunk.css",
+    "main.js": "/puran-herbal/static/js/main.231cf8c3.chunk.js",
+    "main.js.map": "/puran-herbal/static/js/main.231cf8c3.chunk.js.map",
+    "runtime-main.js": "/puran-herbal/static/js/runtime-main.b0346153.js",
+    "runtime-main.js.map": "/puran-herbal/static/js/runtime-main.b0346153.js.map",
+    "static/js/2.4f0110ae.chunk.js": "/puran-herbal/static/js/2.4f0110ae.chunk.js",
+    "static/js/2.4f0110ae.chunk.js.map": "/puran-herbal/static/js/2.4f0110ae.chunk.js.map",
+    "index.html": "/puran-herbal/index.html",
+    "precache-manifest.4d281f5967edf4c2ca3d592868800737.js": "/puran-herbal/precache-manifest.4d281f5967edf4c2ca3d592868800737.js",
+    "service-worker.js": "/puran-herbal/service-worker.js",
+    "static/css/main.ca7b0b65.chunk.css.map": "/puran-herbal/static/css/main.ca7b0b65.chunk.css.map",
+    "static/js/2.4f0110ae.chunk.js.LICENSE.txt": "/puran-herbal/static/js/2.4f0110ae.chunk.js.LICENSE.txt",
+    "static/media/hand_wash.svg": "/puran-herbal/static/media/hand_wash.710f4746.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0346153.js",
+    "static/js/2.4f0110ae.chunk.js",
+    "static/css/main.ca7b0b65.chunk.css",
+    "static/js/main.231cf8c3.chunk.js"
+  ]
+}
